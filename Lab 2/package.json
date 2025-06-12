@@ -1,0 +1,16 @@
+{
+  "name": "lab-2",
+  "version": "1.0.0",
+  "description": "Blankhouse Collective is a Boston-based social club that focuses on culture, connection, and creativity. This project is a multi-page HTML/CSS website designed to represent the four pillars of the collective.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
