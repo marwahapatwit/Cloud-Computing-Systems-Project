@@ -27,7 +27,7 @@ The application includes:
 
 ## Detailed Instructions to Run the Project
 
-### Step 1: Set up your environment 
+## Step 1: Set up your environment 
 
 If not already activated:
 ```bash
@@ -35,20 +35,20 @@ cd "Lab 3"
 python -m venv venv
 venv\Scripts\activate  # For Windows
 
-### Step 2: Install Dependencies
+## Step 2: Install Dependencies
 
 pip install fastapi uvicorn requests
 
-### Step 3: Run the FastAPI Server
+## Step 3: Run the FastAPI Server
 
 uvicorn main:app --reload
 
-### Step 4: Open In Browser
+## Step 4: Open In Browser
 
 Hello route: http://127.0.0.1:8000/
 
 Swagger docs: http://127.0.0.1:8000/docs
 
-### Step 5: Run The Python Driver
+## Step 5: Run The Python Driver
 
 python driver.py
